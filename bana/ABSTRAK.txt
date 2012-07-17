@@ -1,0 +1,11 @@
+
+ABSTRAK
+
+Atiyah Tahta Nisyatina, Pengembangan Sistem Penilaian Angka Kredit Untuk Pengajuan Kenaikan Jabatan Fungsional Berbasis Web dibawah bimbingan Herlino Nanang,  M.T. CCNA., dan Imam M Shofi, M.T.
+
+Salah satu tugas dari subbag kepegawaian fakultas adalah menangani proses kenaikan jabatan fungsional dosen. Perolehan angka kredit yang didapat dari pelaksanaan Tridharma Perguruan Tinggi merupakan syarat dosen untuk mengajukan kenaikan jabatan fungsional. Dari hasil observasi dan wawancara penulis, perhitungan angka kredit yang dilakukan masih bersifat manual. Artinya, belum terdapat sistem yang dapat menghitung perolehan angka kredit sesuai dengan rule perhitungan angka kredit. Melihat permasalahan yang terjadi, maka penulis bermaksud mengembangkan sebuah sistem penilaian angka kredit untuk pengajuan kenaikan jabatan fungsional berbasis web. Sistem ini diharapkan mampu menangani data perolehan angka kredit, aturan kenaikan jabatan fungsional dosen, dan perhitungan angka kredit yang sesuai rule perhitungan angka kredit. Dalam pengembangan sistem ini, penulis menggunakan bahasa pemrograman PHP, database MySQL dan V-Model sebagai metode pengembangan sistemnya. Pengembangan sistem ini pada akhirnya dapat meminimalisir interaksi antara dosen dengan staff kepegawaian sehingga permasalahan mengenai perhitungan angka kredit dapat dihindari; menampilkan data angka kredit dan perhitungannya, mengirimkan notification (pemberitahuan) kepada dosen maupun staff kepegawaian. Untuk ke depannya, diharapkan sistem ini dapat dikembangkan lagi dengan perluasan scope sistem sampai pada level universitas.
+
+Kata Kunci: Web Based, penilaian Angka Kredit, V-Model, kenaikan jabatan 
+fungsional dosen, tridharma perguruan tinggi.
+Jumlah Halaman: xxxii + 179 halaman + 55 lampiran.
+Jumlah Daftar Pustaka:  31 sumber (1999-2010).

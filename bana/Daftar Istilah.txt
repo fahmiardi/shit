@@ -1,0 +1,183 @@
+- apache server
+- architectural design
+- anatomic value
+- active server page (ASP)
+- apache
+- analitycal hierarkhi process (AHP)
+- acceptance testing
+- actor
+- account users
+- 
+- Ms. Excel
+- web
+- website
+- notification
+- sample data
+- tools
+- 
+- v model
+- waterfall
+- interview
+- observasi
+- requirements modelling
+-
+- component design
+- code generation
+- executable software
+- unit testing
+- integration testing
+- system testing
+- 
+- white box testing
+- black box
+- user
+- scope system
+- output
+- input
+- maintenance input
+- signal input
+- man-machine-system
+- deterministic system
+- probabilistik system
+- relatively closed system
+- relative
+- system development
+- problems
+- opportunities
+- directives
+- performance
+- information
+- economy
+- control
+- efficiency
+- services
+- troughput
+- response time
+- response
+- process centered
+- data centered
+- object oriented
+- interviewer
+- industrieanlagen-Betriebsgesellschaft (IABG)
+- national council on system engineering (NCSE)
+- software
+- flowchart
+- system flowchart
+- program flowchart
+- data flow diagram (DFD)
+- context diagram level 0
+- boundary
+- overview diagram
+- entity
+- data store
+- functional primitive
+- balancing
+- level diagram
+- diagram zero
+- diagram level
+- entity relationship diagram
+- one to one
+- one to many
+- many to one
+- many to many
+- unnormalized
+- first normal form (1NF)
+- file
+- record
+- field
+- 
+- multivalue
+- second normal form (2NF)
+- third normal form (3NF)
+- logical record structure
+- state transition diagram
+- state
+- database
+- structured query language (SQL)
+- server database
+- user friendly
+- server
+- query database
+- MySQL
+- Microsoft SQL Server
+- Oracle
+- Sybase
+- Infomix
+- PostgresSQL
+- back-end
+- free software
+- Hypertext Processor (PHP)
+- client
+- browser
+- 
+- command line
+- web server
+- personal web server (PWS)
+- internet information server (IIS)
+- Xitami
+- microsoft personal web server
+- 
+- embedded
+- server side programming
+- web browser
+- plugin
+- postscript
+- user interface
+- point
+- web page
+- request HTTP
+- tag
+- rethink, redesign, and retool
+- bussiness process reengineering (BPR)
+- process bussiness non=added value
+- sekuensial linear
+- 
+- existing system
+- stand alone
+- microsoft access 2003
+- microsoft visual basic 6.0
+- online
+- system development life cycle (SDLC)
+- incremental
+- web online
+- relevan
+- system requirements
+- developer
+- coding
+- hardware
+- software
+- executable system
+- code
+- create
+- read
+- update
+- delete
+- 
+- excellence
+- expertise
+- advance
+- research based university
+- review
+- form
+- functional requirements
+- nonfunctional requirements
+- end user
+- redudant
+- privilages
+- option
+- login
+- finish
+- screenshoot
+- multi platform
+-
+- level user
+- 
+- password
+- username
+- reset account users
+- layout
+- source code
+- error
+- logout
+- localhost
+- collecting data
